@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcTr&custom_title=Most%20Used%20Languages%20(Public%20Repos)&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-marctr.vercel.app/api/top-langs/?username=MarcTr&custom_title=Most%20Used%20Languages%20(Public%20Repos)&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
