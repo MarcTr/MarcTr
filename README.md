@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-marctr.vercel.app/api/top-langs/?username=MarcTr&custom_title=Languages used%20&langs_count=10&layout=compact&hide_border=true)](#)
+[![Top Langs](https://github-readme-stats-marctr.vercel.app/api/top-langs/?username=MarcTr&custom_title=Languages%20used%20&langs_count=10&layout=compact&hide_border=true)](#)
 
 
 
